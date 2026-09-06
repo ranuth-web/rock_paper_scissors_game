@@ -1,0 +1,37 @@
+        body {
+                font-family: Arial, sans-serif;
+                text-align: center;
+                margin-top: 50px;
+                background-color: black;
+                color: white;
+            }
+            h2 {
+                font-size: 50px;
+            }
+            .move-icon {
+                height: 100px;
+            }
+            .move-botton {
+                background-color: transparent;
+                border: 1px solid white;
+                border-radius: 10rem;
+                margin-right: 1rem ;
+                cursor: pointer;
+            }
+            .result {
+                font-size: 25px;
+                font-weight: bold;
+                margin-top: 50px; 
+            
+            }
+            .score {
+                margin: 70px;
+            }
+            .reset-score-botton{
+                background-color: white;
+                border: none;
+                font-size: 15px;
+                padding: 1rem;
+                cursor: pointer;
+            }
+        
